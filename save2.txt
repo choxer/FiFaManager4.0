@@ -1,0 +1,274 @@
+<Daten>
+  <Team>
+  <Name>1. FC Bayern Muenchen</Name>
+  <Trainer>Jupp Heynckes</Trainer>
+    <Player>
+    <Name>Arjen Robben</Name>
+    <Birthday>23.1.1984</Birthday>
+    <TricotNr>10</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Arturo Vidal</Name>
+    <Birthday>22.5.1987</Birthday>
+    <TricotNr>23</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Christian Fruechtl</Name>
+    <Birthday>28.1.2000</Birthday>
+    <TricotNr>36</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Corentin Tolisso</Name>
+    <Birthday>3.8.1994</Birthday>
+    <TricotNr>24</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>David Alaba</Name>
+    <Birthday>24.6.1992</Birthday>
+    <TricotNr>27</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Fabian Benko</Name>
+    <Birthday>5.6.1998</Birthday>
+    <TricotNr>40</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Felix Goetze</Name>
+    <Birthday>11.2.1998</Birthday>
+    <TricotNr>20</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Franck Ribery</Name>
+    <Birthday>7.4.1983</Birthday>
+    <TricotNr>7</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Javi Martinez</Name>
+    <Birthday>2.9.1988</Birthday>
+    <TricotNr>8</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Jerome Boateng</Name>
+    <Birthday>3.9.1988</Birthday>
+    <TricotNr>17</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Joshua Kimmich</Name>
+    <Birthday>8.2.1995</Birthday>
+    <TricotNr>32</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Juan Bernat</Name>
+    <Birthday>1.3.1993</Birthday>
+    <TricotNr>14</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Kingsley Coman</Name>
+    <Birthday>13.6.1996</Birthday>
+    <TricotNr>29</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Manuel Neuer</Name>
+    <Birthday>27.3.1986</Birthday>
+    <TricotNr>1</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Mats Hummels</Name>
+    <Birthday>16.12.1988</Birthday>
+    <TricotNr>5</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Niklas Dorsch</Name>
+    <Birthday>15.1.1998</Birthday>
+    <TricotNr>30</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Niklas Suele</Name>
+    <Birthday>3.9.1995</Birthday>
+    <TricotNr>4</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Rafinha</Name>
+    <Birthday>7.9.1985</Birthday>
+    <TricotNr>13</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Robert Lewandowski</Name>
+    <Birthday>21.8.1988</Birthday>
+    <TricotNr>9</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Sebastian Rudy</Name>
+    <Birthday>28.2.1990</Birthday>
+    <TricotNr>19</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Sven Ulreich</Name>
+    <Birthday>3.8.1988</Birthday>
+    <TricotNr>26</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Thiago</Name>
+    <Birthday>11.4.1991</Birthday>
+    <TricotNr>6</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Thomas Mueller</Name>
+    <Birthday>13.9.1989</Birthday>
+    <TricotNr>25</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+  </Team>
+  <Team>
+  <Name>RB Leipzig</Name>
+  <Trainer></Trainer>
+    <Player>
+    <Name>Benno Schmitz</Name>
+    <Birthday>17.11.1994</Birthday>
+    <TricotNr>20</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Bernardo</Name>
+    <Birthday>14.5.1995</Birthday>
+    <TricotNr>3</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Bruma</Name>
+    <Birthday>24.10.1994</Birthday>
+    <TricotNr>17</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Dayot Upamecano</Name>
+    <Birthday>27.10.1998</Birthday>
+    <TricotNr>5</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Diego Demme</Name>
+    <Birthday>21.11.1991</Birthday>
+    <TricotNr>31</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Dominik Kaiser</Name>
+    <Birthday>16.9.1988</Birthday>
+    <TricotNr>24</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Emil Forsberg</Name>
+    <Birthday>23.10.1991</Birthday>
+    <TricotNr>10</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Ibrahima Konate</Name>
+    <Birthday>25.5.1999</Birthday>
+    <TricotNr>6</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Jean-Kevin Augustin</Name>
+    <Birthday>16.6.1997</Birthday>
+    <TricotNr>29</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Kevin Kampl</Name>
+    <Birthday>9.10.1990</Birthday>
+    <TricotNr>44</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Lukas Klostermann</Name>
+    <Birthday>3.6.1996</Birthday>
+    <TricotNr>16</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Marcel Halstenberg</Name>
+    <Birthday>27.9.1991</Birthday>
+    <TricotNr>23</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Marcel Sabitzer</Name>
+    <Birthday>17.3.1994</Birthday>
+    <TricotNr>7</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Marvin Compper</Name>
+    <Birthday>14.6.1985</Birthday>
+    <TricotNr>33</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Naby Keita</Name>
+    <Birthday>10.2.1995</Birthday>
+    <TricotNr>8</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Nicolas-Gerrit Kuehn</Name>
+    <Birthday>1.1.2000</Birthday>
+    <TricotNr>26</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Peter Gulacsi</Name>
+    <Birthday>6.5.1990</Birthday>
+    <TricotNr>32</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Stefan Ilsanker</Name>
+    <Birthday>18.5.1989</Birthday>
+    <TricotNr>13</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Timo Werner</Name>
+    <Birthday>6.3.1996</Birthday>
+    <TricotNr>11</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Willi Orban</Name>
+    <Birthday>3.11.1992</Birthday>
+    <TricotNr>4</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+    <Player>
+    <Name>Yussuf Poulsen</Name>
+    <Birthday>15.6.1994</Birthday>
+    <TricotNr>9</TricotNr>
+    <Goals>0</Goals>
+    </Player>
+  </Team>
+</Daten>
