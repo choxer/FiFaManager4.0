@@ -1,0 +1,43 @@
+int partition(int *A, int ui, oi)
+{
+	int i = ui+1, j = oi;
+	int *comp = A+ui;
+	
+	while(i<=j)
+	{
+		while((i<=j) && (*(A+i)<=*comp))
+		{
+			i++;
+		}	
+		while((j>=i) && (*(A+j)>=*comp))
+		{
+			j--;
+		}
+		if(i<j)
+		{
+			swap(A+i, A+j);
+			i++;
+			i--;
+		}
+	}
+	i--;
+	swap(comp, A+i);
+	return i;
+}
+
+void QSort(int *A, int ui, int oi)
+{
+	int idx;
+	if(ui >= oi)
+	{
+		return;
+	}
+	idx = partition(A, ui, oi);
+	QSort(A, ui, idx-1);
+	QSort(A, idx+1, oi);
+}
+
+void QuickSort(int *A, int Anz)
+{
+	QSort(A, 0, Anz-1);
+}
